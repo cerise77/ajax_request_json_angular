@@ -1,0 +1,17 @@
+{
+    "user":{
+        "answers":
+        [{
+          "roomNumber": "1",
+          "firstName": "Lela",
+          "lastName": "Nass",
+          "img": "img/man.jpeg"
+        },{
+          "roomNumber": "2",
+          "firstName": "Sisi",
+          "lastName": "Bucher",
+          "img": "img/woman.jpeg"
+        }]
+    }
+
+}
