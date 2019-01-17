@@ -101,7 +101,11 @@ p.remem{
 .btn:hover {
   background: #000;
   color: #fff;
+  cursor: 
 }
+/*.disab {
+  background: gray;
+}*/
 
 .notcorrect{
   display: none;

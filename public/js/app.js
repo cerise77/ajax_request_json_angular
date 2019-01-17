@@ -9,19 +9,19 @@ var routing = angular.module('RoutingApp', ['ngRoute'])
   })
   .when('/list', {
     templateUrl: 'views/list.html',
-    controller:'loginObject'
+    controller:'listController'
   })
   .when('/profil', {
     templateUrl: 'views/profil.html',
-    controller:'loginObject'
+    controller:'profilController'
   })
   .when('/patientlog', {
     templateUrl: 'views/patientlog.html',
-    controller:'loginObject'
+    controller:'patientlogController'
   })
   .when('/information', {
     templateUrl: 'views/information.html',
-    controller:'loginObject'
+    controller:'informController'
   })
   .otherwise({
     redirectTo: '/login'

@@ -127,10 +127,13 @@ h3{
 .grid-profiler-main .profiler-img{
   /*width: 60%;*/
   margin-bottom: 10px;
-  padding: 70px 0;
+  /*padding: 70px 0;
   background-image: url('./img/man.jpeg');
   background-size: cover;
-  background-position: center center;
+  background-position: center center;*/
+}
+.grid-profiler-main .profiler-img img{
+  width: 100%;
 }
 .grid-profiler-main .grid-profiler-main-txt ul > li{
   display: inline-block;
